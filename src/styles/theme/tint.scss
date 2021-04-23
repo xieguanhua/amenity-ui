@@ -1,9 +1,9 @@
 @import "./tinycolor";
 
 $hueStep: 2;
-$saturationStep: 8; // 饱和度阶梯，浅色部分
-$saturationStep2: 8; // 饱和度阶梯，深色部分
-$brightnessStep1: 0; // 亮度阶梯，浅色部分
+$saturationStep: 16; // 饱和度阶梯，浅色部分
+$saturationStep2: 5; // 饱和度阶梯，深色部分
+$brightnessStep1: 5; // 亮度阶梯，浅色部分
 $brightnessStep2: 15; // 亮度阶梯，深色部分
 $lightColorCount: 5; // 浅色数量，主色上
 $darkColorCount: 4; // 深色数量，主色下
